@@ -1,0 +1,199 @@
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG RazerPage.java  - Hover to Products
+[main] DEBUG RazerPage.java  - clicked on MACH3
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG RazerPage.java  - Clicked on styling
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG BrandsPage.java  - Hover to Products
+[main] DEBUG BrandsPage.java  - clicked on MACH3
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG RazerPage.java  - Clicked on serach
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG StylePage.java  - Clicked on styling
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG BrandsPage.java  - Hover to Products
+[main] DEBUG BrandsPage.java  - clicked on MACH3
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG RazerPage.java  - Clicked on serach
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG StylePage.java  - Clicked on styling
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG BrandsPage.java  - Hover to Products
+[main] DEBUG BrandsPage.java  - clicked on MACH3
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG RazerPage.java  - Clicked on serach
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG StylePage.java  - Clicked on styling
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG BrandsPage.java  - Hover to Products
+[main] DEBUG BrandsPage.java  - clicked on MACH3
+[main] DEBUG BrandsPage.java  - clicked on MACH3
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG RazerPage.java  - Clicked on serach
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG StylePage.java  - Clicked on styling
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG BrandsPage.java  - Hover to Products
+[main] DEBUG BrandsPage.java  - clicked on MACH3
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG RazerPage.java  - Clicked on serach
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG StylePage.java  - Clicked on styling
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG BrandsPage.java  - Hover to Products
+[main] DEBUG BrandsPage.java  - clicked on MACH3
+[main] DEBUG BrandsPage.java  - Gillette MACH3 present in out products list
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG RazerPage.java  - Clicked on serach
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG StylePage.java  - Clicked on styling
+[main] DEBUG StylePage.java  - “Facial Hair Styles: The Anchor Beard present
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG BrandsPage.java  - Hover to Products
+[main] DEBUG BrandsPage.java  - clicked on MACH3
+[main] DEBUG BrandsPage.java  - Gillette MACH3 present in out products list
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG RazerPage.java  - Clicked on serach
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG StylePage.java  - Clicked on styling
+[main] DEBUG StylePage.java  - “Facial Hair Styles: The Anchor Beard present
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG BrandsPage.java  - Hover to Products
+[main] DEBUG BrandsPage.java  - clicked on MACH3
+[main] DEBUG BrandsPage.java  - Gillette MACH3 present in out products list
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG RazerPage.java  - Clicked on serach
+[main] DEBUG RazerPage.java  - type Razor in search box
+[main] DEBUG RazerPage.java  - Razer present in top list
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
+[main] DEBUG Hooks.class  - Opening driver
+[main] INFO  Hooks.class  - Driver opened
+[main] DEBUG Hooks.class  - Opening URL
+[main] DEBUG StylePage.java  - Clicked on styling
+[main] DEBUG StylePage.java  - “Facial Hair Styles: The Anchor Beard present
+[main] INFO  Hooks.class  - Driver closed
+[main] INFO  Hooks.class  - Scenario completed
